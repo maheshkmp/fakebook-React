@@ -13,10 +13,28 @@
     border-radius: 10px;
 }
 .postTop{
-    margin-top: 10px;
+    
+    display: flex; 
+    align-items: center;  
+}
+
+.postTopLeft{
     display: flex;
     align-items: center;
+    margin-top: 5 px;
+    margin-left: 5px;
 }
+
+
+.postCenter{
+    margin: 20px 0;
+}
+
+.postCaption{
+    margin-left: 10px;
+}
+
+
 .postUserName{
     font-size: 15px;
     font-weight: 500;
@@ -55,5 +73,11 @@
 .likeCount{
     margin-left: 5px;
     font-size: 15px;
+}
+
+.commentCount{
+    margin-right: 10px;
+    border-bottom: 1px dashed gray;
+    cursor: pointer;
 }
 

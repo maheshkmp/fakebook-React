@@ -1,4 +1,31 @@
 .rightPaneBox{
-    
     flex: 3;
+    margin-left: 15px;
+}
+
+
+.adImage{
+    width: 400px;
+    height: 200px;
+}
+
+.rightPaneContainer{
+    padding: 20px 20px 0 0;
+}
+
+.adContainer{
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+
+.sponsered{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(97, 95, 95);
+}
+
+.adImage{
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 98%;
 }
