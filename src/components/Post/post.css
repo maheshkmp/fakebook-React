@@ -11,11 +11,12 @@
     margin: 30px 0;
     margin-left: 10px;
     border-radius: 10px;
+    width: 95%;
 }
 .postTop{
-    
     display: flex; 
-    align-items: center;  
+    align-items: center;
+   
 }
 
 .postTopLeft{
